@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogames
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m in love
-- 📫 You reach me via email -> seba241998@gmail.com
+- 📫 You can reach me via email -> seba241998@gmail.com
 
 <!---
 UnTalSeba/UnTalSeba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
