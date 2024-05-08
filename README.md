@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Seba
 - 👀 I’m interested in videogames
-- 🌱 I’m currently learning Kotlin
 - 💞️ I’m in love
 - 📫 You can reach me via email -> seba241998@gmail.com
 
